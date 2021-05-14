@@ -1,0 +1,2 @@
+https://training.talkpython.fm/courses/details/full-html-web-applications-with-fastapi
+
